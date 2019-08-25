@@ -1,4 +1,4 @@
-# DeepLearningProjects
+# DeepLearningPracticeProjects
 Small projects and analyses to practice with deep learning methods
 
 ## Deep Dish Learner 
