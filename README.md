@@ -7,7 +7,7 @@ A notebook to showcase transfer learning with ResNet-34 for accurately classifyi
 
 ## Deep Autoencoder on Fashion-MNIST 
 ##### DeepAutoencoders_fMNIST.ipynb
-A notebook to showcase autoencoders on the Fashion-MNIST data set, as well as demonstrating the use of autoencoders for reducing noise in image data.
+A notebook to showcase both standard autoencoders and convolutional autoencoders on the Fashion-MNIST data set, as well as demonstrating the use of convolutional autoencoders for reducing unwanted noise in image data.
 
 ## Deep Cluster on 2016-2017 Season NBA Player Data 
 ##### DeepClusteringNBAPlayers20162017.ipynb
