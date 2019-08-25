@@ -3,7 +3,7 @@ Small projects and analyses to practice with deep learning methods
 
 ## Deep Dish Learner 
 ##### DeepDishLearnerAnalysis.ipynb
-A notebook to showcase transfer learning with ResNet-34 for accurately classifying pizza images (Chicago Deep Dish and New York Style).
+A notebook to showcase transfer learning with ResNet-34 for classifying pizza images (Chicago Deep Dish and New York Style).
 
 ## Deep Autoencoder on Fashion-MNIST 
 ##### DeepAutoencoders_fMNIST.ipynb
