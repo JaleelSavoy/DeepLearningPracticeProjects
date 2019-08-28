@@ -12,3 +12,7 @@ A notebook to showcase both standard autoencoders and convolutional autoencoders
 ## Deep Clustering on 2016-2017 Season NBA Player Data 
 ##### DeepClusteringNBAPlayers20162017.ipynb
 A notebook to showcase deep clustering on NBA player data from the 2016-17 season.
+
+## Neural Style Transfer Example
+##### NeuralStyleTransfer.ipynb
+A notebook that practices neural artistic style transfer inspired by (and borrowing some code from) the TensorFlow tutorial.
